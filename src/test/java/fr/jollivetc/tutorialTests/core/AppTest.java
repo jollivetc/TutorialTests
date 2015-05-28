@@ -1,4 +1,4 @@
-package fr.jollivetc.tuto.tests.core;
+package fr.jollivetc.tutorialTests.core;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
